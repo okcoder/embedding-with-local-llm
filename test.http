@@ -1,0 +1,7 @@
+POST http://localhost:5050/embedding
+Content-Type: application/json
+
+{
+  "model": "sup-simcse-ja-base",
+  "input": "ベクトルの類似度を計算する。"
+}

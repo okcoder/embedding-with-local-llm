@@ -1,0 +1,4 @@
+fugashi
+unidic-lite
+sentence-transformers
+Flask
